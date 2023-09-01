@@ -1,9 +1,7 @@
 ![Web Developer](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=826&t=st=1693583498~exp=1693584098~hmac=8a160870304da4690e673ab9f5e0c1c56672bf6cafe1ad2c2dea9f31828b75c9)
 
-<h1 align="center">Hi 👋, I'm Mohammad Ibrahim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
-
+<h1 align="center">I'm Mohammad Ibrahim</h1>
+<h3 align="center">A passionate Web developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimohid&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimohid" /> </p>
 
@@ -12,8 +10,6 @@
 - 🌱 I’m currently learning **Full Stack Web-Development (Python & JavaScript).**
 
 - 📫 How to reach me **mohammadibrahim.dev@gmail.com**
-
-- ⚡ Fun fact **I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimohid&show_icons=true&locale=en" alt="ibrahimohid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimohid&" alt="ibrahimohid" /></p>
+
+
