@@ -1,5 +1,4 @@
-![I am GitHub Readme Generator's creator](https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?t=st=1693584591~exp=1693585191~hmac=5cafc2fd0a5950b720677b8ecbacceccdc0b52f7338cbc3ecc17afb6d
-8fcf2c5)
+![I am GitHub Readme Generator's creator](https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=740&t=st=1693584629~exp=1693585229~hmac=992cfe9b241c856634b7035724440c0c7d0b1b026c9f6281d8cac5d55d27956d)
 
 <h1 align="center">I'm Mohammad Ibrahim</h1>
 <h3 align="center">A passionate Web developer from Bangladesh.</h3>
