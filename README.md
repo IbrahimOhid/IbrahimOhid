@@ -7,8 +7,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 
-## 💫 About Me:
-👑 I am Web Developer.  🖊️ Love to write code. <br><br> 🌱 I’m currently learning Full Stack Web-Development (Python & JavaScript).<br><br> 📫 How to reach me mohammadibrahim.dev@gmail.com <br><br>  ⚡ Fun fact I am funny 😅
+# 💫 About Me:
+👑 I am Web Developer. <br> <br> 🖊️ Love to write code. <br><br> 🌱 I’m currently learning Full Stack Web-Development (Python & JavaScript).<br><br> 📫 How to reach me mohammadibrahim.dev@gmail.com <br><br>  ⚡ Fun fact I am funny 😅
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ibrahimbhai.ohid/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-ibrahim-ohid/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/c/ibrahimohid) 
