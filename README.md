@@ -1,6 +1,8 @@
 
 ![](https://media.licdn.com/dms/image/D5616AQFb-5YSeOHoAw/profile-displaybackgroundimage-shrink_350_1400/0/1694168890147?e=1699488000&v=beta&t=sWeH0KbzJUKoAAdH5T10Afo9CgGeVsh1Ynz_ljU_gT4)
-<h1 align="center">Assalamualikum 😊, I'm Mohammad Ibrahim</h1>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mohammad Ibrahim 👋 I'm a 🚀 Frontend Web developer 🚀 I Adore Self-Study ❤️">
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=IbrahimOhid&icon=0&color=11)](https://visitcount.itsvg.in)
 
